@@ -925,6 +925,19 @@ blockquote {
 
 .item {
   position: relative;
+}
+
+.dropdown-menu .dropdown-menu {
+  left: 100%;
+}
+
+.dropdown-item + .dropdown-menu {
+  display: none;
+}
+
+.dropdown-item:hover + .dropdown-menu,
+.dropdown-menu:hover {
+  display: block;
 }.engine {
 	position: absolute;
 	text-indent: -2400px;
