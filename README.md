@@ -1,2 +1,1 @@
-# chirostgerolf.github.io
-GitHub Pages
+# chirostgerolf.be
