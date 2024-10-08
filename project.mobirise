@@ -61,7 +61,9 @@
     "publishChangesOnly": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "mbrsiteDomain": "ufigiq80lr",
-    "usedWebp": false
+    "usedWebp": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
