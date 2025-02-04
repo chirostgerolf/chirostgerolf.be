@@ -1718,44 +1718,44 @@ a {
   color: #00a20b;
   text-align: center;
 }
-.cid-up1zhKQeTq {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+.cid-uqC1E2Y3HI {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
   background: #0b0549;
 }
-.cid-up1zhKQeTq .team-card {
+.cid-uqC1E2Y3HI .team-card {
   margin-bottom: 2rem;
   transition: all 0.3s;
 }
-.cid-up1zhKQeTq .team-card:hover {
+.cid-uqC1E2Y3HI .team-card:hover {
   transform: translateY(-10px);
 }
-.cid-up1zhKQeTq .card-wrap {
+.cid-uqC1E2Y3HI .card-wrap {
   background: #ffffff;
   border-radius: 4px;
 }
 @media (max-width: 991px) {
-  .cid-up1zhKQeTq .card-wrap {
+  .cid-uqC1E2Y3HI .card-wrap {
     margin-bottom: 2rem;
   }
 }
-.cid-up1zhKQeTq .card-wrap .image-wrap img {
+.cid-uqC1E2Y3HI .card-wrap .image-wrap img {
   width: 100%;
 }
 @media (min-width: 768px) {
-  .cid-up1zhKQeTq .card-wrap .content-wrap {
+  .cid-uqC1E2Y3HI .card-wrap .content-wrap {
     padding: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-up1zhKQeTq .card-wrap .content-wrap {
+  .cid-uqC1E2Y3HI .card-wrap .content-wrap {
     padding: 1rem;
   }
 }
-.cid-up1zhKQeTq .social-row {
+.cid-uqC1E2Y3HI .social-row {
   text-align: center;
 }
-.cid-up1zhKQeTq .social-row .soc-item {
+.cid-uqC1E2Y3HI .social-row .soc-item {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
@@ -1765,7 +1765,7 @@ a {
   border: 2px solid #6592e6;
   transition: all 0.3s;
 }
-.cid-up1zhKQeTq .social-row .soc-item .mbr-iconfont {
+.cid-uqC1E2Y3HI .social-row .soc-item .mbr-iconfont {
   transition: all 0.3s;
   display: flex;
   justify-content: center;
@@ -1773,23 +1773,14 @@ a {
   color: #6592e6;
   font-size: 1.5rem;
 }
-.cid-up1zhKQeTq .social-row .soc-item:hover {
+.cid-uqC1E2Y3HI .social-row .soc-item:hover {
   background-color: #6592e6;
 }
-.cid-up1zhKQeTq .social-row .soc-item:hover .mbr-iconfont {
+.cid-uqC1E2Y3HI .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
-.cid-up1zhKQeTq .mbr-section-title {
-  color: #bbbbbb;
-  text-align: center;
-}
-.cid-up1zhKQeTq .card-title,
-.cid-up1zhKQeTq .social-row {
-  text-align: center;
+.cid-uqC1E2Y3HI .mbr-section-title {
   color: #00a20b;
-}
-.cid-up1zhKQeTq .card-title,
-.cid-up1zhKQeTq .social-row P {
   text-align: center;
 }
 .cid-tSWRBFvkZr {
